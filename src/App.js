@@ -17,14 +17,15 @@ const StyledApp = styled.div`
 
   h1 {
     color: ${props => props.theme.secondaryColor}
+
   };
    
   h2{
-     color ${props => props.theme.primaryColor}
+     color: ${props => props.theme.primaryColor}
    };
 
   img{
-    border-radius: 10px;
+    border-radius: 11px;
   } 
 
 `
