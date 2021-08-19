@@ -10,7 +10,7 @@ import styled from 'styled-components'
 
 
 const StyledApp = styled.div`
-  background-color: pink;
+  background-color: blue;
   text-align: center;
   padding-bottom: 100px;
   
